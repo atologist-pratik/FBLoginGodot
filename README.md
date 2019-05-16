@@ -4,6 +4,9 @@ This project contain compiled binary that include facebook module for ios only.
 **NOTE:-** I used xcode 10.1 with developer account, Godot Engine 3.1 Stable and Godot Source Code Stable 3.1. Facebook login will if you selecte **Log In with Phone Number or Email Address** option. If you select **Log In with the Facebook App** in login page then your application received login cancelled error.(Its a bug, Work is in progress) 
 
 
+**Module Link : ** [Here](https://github.com/atologist-pratik/FBLoginDemo)
+
+
 You can download bindary from below Link.
 
 [iphone.zip](https://drive.google.com/file/d/1uDnNgVjqdMfHbPJjMuZFejQVbg-SVK8f/view?usp=sharing)
