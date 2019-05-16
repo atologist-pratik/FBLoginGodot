@@ -5,7 +5,11 @@ This project contain compiled binary that include facebook module for ios only.
 
 
 You can download bindary from below Link.
- ## Link Area
+
+[iphone.zip](https://drive.google.com/file/d/1uDnNgVjqdMfHbPJjMuZFejQVbg-SVK8f/view?usp=sharing)
+ 
+ **MacOS** : Copy iphone.zip in `/Library/Application\ Support/Godot/templates/3.1.stable`
+ 
  
  Above bindary is for debug only. I haven't compile facebook module for release version.
 
